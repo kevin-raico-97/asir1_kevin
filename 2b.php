@@ -1,7 +1,9 @@
 <?php
-function calcula(){
+function calcula($a,$b){
+
 $a=10;
 $b=5;
+
 echo("Suma, Resta, Producto y Cociente de $a y $b: ");
 echo '<br/>';
 
@@ -19,5 +21,7 @@ echo '<br/>';
 
 echo("Cociente= ");
 echo ($a/$b);
-}calcula();
+}
+calcula($a,$b);
+
 ?>

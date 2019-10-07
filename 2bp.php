@@ -1,10 +1,27 @@
-  
 <?php
 function calcula($a,$b){
-echo "suma:" .$a."+".$b."=".($a+$b). '</br>';
-echo "resta:" .$a."-".$b."=".($a-$b). '</br>';
-echo "division:" .$a."/".$b."=".($a/$b). '</br>';
-echo "multiplicacion:" .$a."x".$b."=".($a*$b). '</br>';
-}calcula(20,5);
-calcula(560,53);
+
+echo("Suma, Resta, Producto y Cociente de $a y $b: ");
+echo '<br/>';
+
+echo("Suma= ");
+echo ($a+$b);
+echo '<br/>';
+
+echo("Resta= ");
+echo ($a-$b);
+echo '<br/>';
+
+echo("Producto= ");
+echo ($a*$b);
+echo '<br/>';
+
+echo("Cociente= ");
+echo ($a/$b);
+echo '<br/>';
+}
+calcula(10,15);
+calcula(20,10);
+calcula(35,45);
+
 ?>
