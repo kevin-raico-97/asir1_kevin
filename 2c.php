@@ -1,14 +1,31 @@
-  
 <?php
-
 function calcula($a,$b){
-	echo "suma:" .$a."+".$b."=".($a+$b). '</br>';
-	echo "resta:" .$a."-".$b."=".($a-$b). '</br>';
-	echo "division:" .$a."/".$b."=".($a/$b). '</br>';
-	echo "multiplicacion:" .$a."x".$b."=".($a*$b). '</br>';
+	$r=null;
+	$r=$r.("Suma, Resta, Producto y Cociente de $a y $b: ");
+	$r=$r. '<br/>';
+
+	$r=$r.("Suma= ");
+	$r=$r. ($a+$b);
+	$r=$r. '<br/>';
+
+	$r=$r.("Resta= ");
+	$r=$r. ($a-$b);
+	$r=$r. '<br/>';
+
+	$r=$r.("Producto= ");
+	$r=$r. ($a*$b);
+	$r=$r. '<br/>';
+
+	$r=$r.("Cociente= ");
+	$r=$r. ($a/$b);
+	$r=$r. '<br/>';
+	return $r;
 }
+echo calcula(10,15);
+echo calcula(20,10);
 /*
-calcula(10,5);
-calcula(560,53);
+lo siguiente es lo mismo que poner echo, pero lo almacena en $s "hoja en blanco"
 */
+$s=calcula(35,45);
+echo $s;
 ?>
