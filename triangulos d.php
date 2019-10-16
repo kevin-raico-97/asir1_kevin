@@ -26,15 +26,15 @@ function tipo_lados2 ($a,$b,$c){
 	echo '<br>';
 }
 
-function triangulo ($a,$b,$c,$d,$e,$f){
-	tipo_lado1($a,$b,$c);
-	tipo_lado2($d,$e,$f);
-}
+echo 'Pruebas sobre triángulos<br><br>';
+tipo_lados1(1,1,1);	
+tipo_lados1(1,1,2);
+echo '<br>';
+echo '<br>';
 
-triangulo(1,1,1,90,60,90)
-triangulo(1,1,2,80,60,50)
-
-
-
+echo "Pruebas sobre triangulos:<br><br>";
+tipo_lados2 (90,60,90);
+tipo_lados2 (80,60,50);
+tipo_lados2 (90,60,100);
 ?>
 
