@@ -1,5 +1,3 @@
-  
-
 <?php
 function mes($n){
 	$a=[
@@ -60,11 +58,10 @@ function mes($n){
 	$r=$r.'Estación del mes:'.' '.$a[$n-1]['estacion'].'<br>';
 	return $r;
 }
-echo mes(2).'<br>';
-echo mes(12).'<br>';
-echo mes(6).'<br>';
-echo mes(10).'<br>';
-echo mes(3).'<br>';
-echo mes(5).'<br>';
+echo mes(2).'¿Febrero?<br>';
+echo mes(12).'¿Diciembre?<br>';
+echo mes(6).'¿Junio?<br>';
+echo mes(10).'¿Octube?<br>';
+echo mes(3).'¿Marzo?<br>';
+echo mes(5).'¿Mayo?<br>';
 ?>
-	
