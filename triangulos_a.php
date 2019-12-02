@@ -14,12 +14,12 @@ function tipo_lados($a,$b,$c){
 
 echo 'Pruebas sobre triángulos<br>';
 
-echo "El triángulo (1,1,1) es: ";
+echo "¿Equilatero? ";
 echo tipo_lados(1,1,1)."<br>";	
 
-echo "El triángulo (1,1,2) es: ";
+echo "¿Isosceles? ";
 echo tipo_lados(1,1,2)."<br>";
 
-echo "El triángulo (1,2,3) es: ";
+echo "¿Escaleno? ";
 echo tipo_lados(1,2,3)
 ?>
