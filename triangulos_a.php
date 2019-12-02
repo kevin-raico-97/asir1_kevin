@@ -3,18 +3,23 @@
 function tipo_lados($a,$b,$c){
 
 	$r="Escaleno";
-	if($a==$b or $b==$c or $c==$a)
+	if($a==$b or $b==$c or $c==$a){
 		$r="Isosceles";
 	if($a==$b and $b==$c)
 		$r="equilatero";
+	}
 
-	$r=return
-	echo '<br>';
+		return $r;
 }
 
 echo 'Pruebas sobre triángulos<br>';
-echo "El triangulo es: ";
-echo tipo_lados(5,1,1);	
 
-tipo_lados(1,1,2);
+echo "El triángulo (1,1,1) es: ";
+echo tipo_lados(1,1,1)."<br>";	
+
+echo "El triángulo (1,1,2) es: ";
+echo tipo_lados(1,1,2)."<br>";
+
+echo "El triángulo (1,2,3) es: ";
+echo tipo_lados(1,2,3)
 ?>
