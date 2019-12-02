@@ -34,7 +34,7 @@ for($i=1;$i<360;$i++){
 		and
 		date('D',strtotime($a))!='Sun'
 	){
-		$x[]=[
+		$c[]=[
 		'n'=>$i,
 		's'=>round($i/7)+1,
 		'fecha'=>date('Y-m-d',strtotime('2019-09-13')+($i-1)*24*60*60),
@@ -68,34 +68,34 @@ for($i=1;$i<360;$i++){
 		];
 	}
 }
-echo count($x).' H. tenemos de HW.'."<br>";
+echo count($c).' H. tenemos de HW.'."<br>";
 echo (count($y)*2).' H. tenemos de LMS.'."<br>";
 
 
-foreach($x as $z){
+foreach($c as $f){
 	echo '<tr>'."<br>";
 	
 	/* Día del año */
 					echo '<td>'."<br>";
-					echo $z['n'].'º dia del año'."<br>";
+					echo $f['n'].'º dia del año'."<br>";
 					echo '</td>';	
 					
 					
 	/* Día de semana */
 					echo '<td>';
-					echo $z['s'].'ª semana del año'."<br>";
+					echo $f['s'].'ª semana del año'."<br>";
 					echo '</td>';
 					
 					
 	/* Fecha */
 					echo '<td>';
-					echo $z['fecha']."<br>";
+					echo $f['fecha']."<br>";
 					echo '</td>';	
 					
 					
 	/* Día de la semana*/
 					echo '<td>';
-					echo $z['D'];
+					echo $f['D'];
 					echo '</td>';	
 	
 					echo '</tr>';
