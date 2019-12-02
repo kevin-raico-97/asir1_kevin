@@ -20,6 +20,20 @@ echo tipo_lados(1,1,1)."<br>";
 echo "¿Isosceles? ";
 echo tipo_lados(1,1,2)."<br>";
 
+echo "¿Isosceles? ";
+echo tipo_lados(1,2,1)."<br>";
+
+echo "¿Isosceles? ";
+echo tipo_lados(2,2,1)."<br>";
+
 echo "¿Escaleno? ";
-echo tipo_lados(1,2,3)
+echo tipo_lados(1,2,3)."<br>";
+
+echo "¿Escaleno? ";
+echo tipo_lados(1,3,2)."<br>";
+
+echo "¿Escaleno? ";
+echo tipo_lados(3,2,1)."<br>";
+
+
 ?>
