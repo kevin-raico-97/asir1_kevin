@@ -8,7 +8,7 @@
 <h1 align="center">Francia</h1>
 <h2><u><b> París </b></u></h2>
 <br>
-<font color="#036E8A" size="2px" face="Comic Sans MS">París es la capital de Francia y constituye una de las ciudades más
+<font color="#036E8A" size="2" face="Comic Sans MS">París es la capital de Francia y constituye una de las ciudades más
  importantes e influyentes del mundo. Desde el punto de vista turístico,
  París es una de las ciudades más visitadas de Europa. Con nuestra guía
  de París podrás descubrir todos los secretos de la ciudad además de
@@ -44,6 +44,8 @@ Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
  hacer las maletas y prepararse para disfrutar de una de las ciudades 
  más románticas del mundo.</p>
  
+ <h3>Algunas temperaturas actualmente son:</h3>
+ 
 <table border="2" bordercolor="red"">
   <tr align="center">
     <td bgcolor="red">Temperatura</td>
@@ -74,6 +76,25 @@ Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
 	<td>8º</td>
 </tr>
 </table>
+<br><br>
+
+
+<h2><u>Formulario de suscripción:</u></h2>
+<br>
+<form action="suscriptores.txt" method="post">
+  <p>Nombre: <input type="text" name="nombre" size="40"></p>
+  <p>Año de nacimiento: <input type="number" name="nacido" min="1900"></p>
+  <p>Sexo:
+    <input type="radio" name="hm" value="h"> Hombre
+    <input type="radio" name="hm" value="m"> Mujer
+  </p>
+  <p>
+    <input type="submit" value="Enviar">
+    <input type="reset" value="Borrar">
+  </p>
+</form>
+
+<h4>Gracias por tu visita.</h4>
 
 </center>
 </table>
