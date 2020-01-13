@@ -27,13 +27,13 @@
 <p><font size="6">¿Por qué visitar París?</font></p>
 <p>París es una ciudad que parece diseñada para el disfrute del viajero. 
 Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
- que cualquier persona que visite París desee volver.<br><br>
+ que cualquier persona que visite París desee volver.<br><br/>
  
  Visitar la Torre Eiffel, el Arco del Triunfo o la Catedral de Notre Dame, 
  acudir a un espectáculo de cabaret en el mítico Moulin Rouge, o bien pasear
  por algunos de los barrios más pintorescos de la ciudad como Montmartre o 
  Montparnasse, son algunas de las experiencias que todo el mundo debería 
- tener la ocasión de disfrutar.<br><br>
+ tener la ocasión de disfrutar.<br><br/>
  
  Cualquier excusa es buena para viajar a París, tanto su cercanía con España,
  como el precio de los vuelos de bajo coste. Y si tenéis niños, 
