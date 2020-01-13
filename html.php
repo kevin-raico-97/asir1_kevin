@@ -42,7 +42,7 @@ Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
  
 <p><font size="6">¿Cómo organizar el viaje?</font></p>
 <p>Antes de viajar te sugerimos que comiences informándote sobre la historia
- de París y algunos datos prácticos que pueden ser de utilidad.<br><br>
+ de París y algunos datos prácticos que pueden ser de utilidad.<br><br/>
  
  Tras conocer los lugares más interesantes de París, los principales museos,
  las mejores zonas para alojarse y los platos más típicos, sólo falta 
