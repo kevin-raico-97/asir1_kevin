@@ -1,25 +1,30 @@
 <html>
 <head>
-<title>París</title>
+<title>Viajes</title>
 </head>
 <body bgcolor="#BEABD7">
-<Center>
+
 <table width="75%"  height="75%">
-<h1 align="center">Francia</h1>
-<h2><u><b> París </b></u></h2>
+<h1 align="center">Viajes</h1>
+<h2 align="center"><u><b> Paises y Ciudades </b></u></h2>
+<br/>
+<h3>Francia</h3>
+<h4>París</h4>
+
+<Center>
 <br>
-<font color="#036E8A" size="2" face="Comic Sans MS">París es la capital de Francia y constituye una de las ciudades más
+<p><font color="#036E8A" size="2" face="Comic Sans MS">París es la capital de Francia y constituye una de las ciudades más
  importantes e influyentes del mundo. Desde el punto de vista turístico,
  París es una de las ciudades más visitadas de Europa. Con nuestra guía
  de París podrás descubrir todos los secretos de la ciudad además de
- conseguir los mejores consejos para viajar a París ahorrando dinero.</font>
+ conseguir los mejores consejos para viajar a París ahorrando dinero.</font></p>
 <br><br><br>
 
 <img src="https://i2.wp.com/unaideaunviaje.com/wp-content/uploads/2019/07/Que-ver-en-paris-unaideaunviaje-2.jpg?resize=999%2C600&ssl=1" width="750">
 
 
 <br><br><br>
-<h1>¿Por qué visitar París?</h1>
+<p><font size="6">¿Por qué visitar París?</font></p>
 <p>París es una ciudad que parece diseñada para el disfrute del viajero. 
 Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
  que cualquier persona que visite París desee volver.<br><br>
@@ -35,7 +40,7 @@ Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
  ¿por qué no regalarles un viaje a Disneyland?</p>
  <br><br><br>
  
-<h1>¿Cómo organizar el viaje?</h1>
+<p><font size="6">¿Cómo organizar el viaje?</font></p>
 <p>Antes de viajar te sugerimos que comiences informándote sobre la historia
  de París y algunos datos prácticos que pueden ser de utilidad.<br><br>
  
@@ -44,9 +49,10 @@ Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
  hacer las maletas y prepararse para disfrutar de una de las ciudades 
  más románticas del mundo.</p>
  
- <h3>Algunas temperaturas actualmente son:</h3>
+ <p><font size="6">Algunas temperaturas actualmente son:</font></p>
  
-<table border="2" bordercolor="red"">
+ 
+<table align="center" border="2" bordercolor="red"">
   <tr align="center">
     <td bgcolor="red">Temperatura</td>
     <td bgcolor="red">Ciudad</td>
@@ -76,7 +82,23 @@ Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
 	<td>8º</td>
 </tr>
 </table>
+<br><br><br><br>
+
+<h3>Alemania</h3>
+<h4>Múnich</h4>
 <br><br>
+<center>
+<p><font color="#036E8A" size="2" face="Comic Sans MS"> El hogar del Oktoberfest, la capital de Baviera ofrece vistas alpinas y salones 
+abarrotados en los que se puede beber cerveza. Es mucho más que las salchichas bratswurt, 
+la birra y los típicos pantalones “lederhosen”. Múnich es una ciudad sofisticada 
+que a menudo está a la cabeza de las listas de las mejores ciudades para vivir del 
+mundo. Con sus tiendas, atracciones culturales y lagos y montañas que quitan el hipo, 
+sin ninguna duda es un rincón que consigue el equilibrio perfecto entre la vida en la 
+ciudad y la belleza natural. </font></p>
+
+
+<img src="https://as.com/showroom/imagenes/2019/01/09/portada/1547048847_099606_1547049527_noticia_normal.jpg" width="750">
+
 
 
 <h2><u>Formulario de suscripción:</u></h2>
@@ -96,6 +118,7 @@ Sus calles, plazas, edificios, jardines y monumentos parecen ideados para
 
 <h4>Gracias por tu visita.</h4>
 
+</center>
 </center>
 </table>
 </body>
